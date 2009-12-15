@@ -75,5 +75,3 @@ function asyncga_options() {
 add_option('gaaccount', 'UA-XXXX-X');
 add_action( 'wp_head', 'asyncga_snippet' );
 add_action('admin_menu', 'asyncga_menu');
-// update_option('gaaccount', 'UA-8742933-1');
-// add_menu_page('page_title', 'menu_title', 'capability', 'handle', 'asyncga_menu',);
