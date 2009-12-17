@@ -2,6 +2,7 @@
 
 /*
  Plugin Name: Asynchronous Google Analytics
+ Plugin URI: http://github.com/kennethreitz/async-google-analytics-wordpress-plugin
  Description: Adds Asynchronous Google Analytics support to WordPress, thanks to <a href="http://kennethreitz.com">Kenneth Reitz</a>.
  Author: Kenneth Reitz
  Author URI: http://kennethreitz.com
