@@ -1,3 +1,6 @@
+What is this?
+
+Give me some background.
 As you know, Google Analytics is the web's premier analytics tracking and analysis tool.
 
 Until recently, it has been a (very small) bear to load to page, since it would block content downloads until it was finished loading. To fix this, Google recently announced it's new Asynchronous JavaScript loading capabilities. This will heavily increase your site's loading speed.
